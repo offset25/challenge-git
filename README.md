@@ -1,3 +1,6 @@
+original challenge located at
+https://github.com/outlier-org/challenge-git
+
 ![Outlier.org](https://i.imgur.com/vJowpL1.png)
 
 ---
